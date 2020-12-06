@@ -2,7 +2,87 @@
 [scihow](https://scihow.com)
 [complexity](https://scihow.com/en/tags/devil-of-complexity)
 [knowledge-structure](https://scihow.com/en/tags/knowledge-structure/)
-  
+https://scihow.com/	2020-12-06T03:41:39+00:00	1.00
+https://scihow.com/en/	2020-12-06T03:41:39+00:00	0.80
+https://scihow.com/en/archive/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/posts/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/tags/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/about/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/posts/science-theory-stagnation-7-1/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/posts/science-theory-stagnation-6-5/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/posts/science-theory-stagnation-6-4/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/posts/science-theory-stagnation-6-3/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/posts/science-theory-stagnation-6-1-6-2/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/posts/science-theory-stagnation-5/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/posts/science-theory-stagnation-4-4/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/posts/science-theory-stagnation-4-3/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/posts/science-theory-stagnation-4-2/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/posts/science-theory-stagnation-4-1/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/posts/science-theory-stagnation-3-3/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/posts/science-theory-stagnation-3-2-3-4/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/posts/science-theory-stagnation-3-2-1-2/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/page/2/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/page/3/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/tags/ai/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/tags/consequences-of-high-complexity/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/tags/devil-of-complexity/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/tags/fate-of-human-society/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/tags/future-is-not-always-better/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/tags/justice/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/tags/knowledge-structure/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/tags/machine-learning/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/tags/mathematical-model/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/tags/partial-differential-equation/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/tags/science/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/tags/social-society/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/tags/society/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/tags/stagnation/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/tags/technology-tree/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/cn/	2020-12-06T03:41:39+00:00	0.64
+https://scihow.com/en/archive/page/2/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/archive/page/3/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/archive/page/4/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/cn/archive/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/page/2/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/page/3/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/cn/posts/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/cn/tags/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/cn/about/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/science-theory-stagnation-0/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/science-theory-stagnation-1-1/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/science-theory-stagnation-1-2/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/science-theory-stagnation-1-3/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/science-theory-stagnation-1-4/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/science-theory-stagnation-2-1/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/science-theory-stagnation-2-2/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/science-theory-stagnation-2-3-2-4/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/science-theory-stagnation-3-1/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/where-is-the-science-stagnant/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/sci-how-to-understand-the-society-5/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/sci-how-to-understand-the-society-4/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/sci-how-to-understand-the-society-2/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/sci-how-to-understand-the-society-3/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/sci-how-to-understand-the-society-1/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/the-changing-china-culture/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/sci-how-to-learn-mahine-learning/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/posts/male-power-awakening/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/cn/tags/justice/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/cn/tags/knowledge-structure/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/tags/science/page/2/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/cn/tags/science/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/cn/tags/social-society/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/cn/tags/society/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/en/tags/stagnation/page/2/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/cn/tags/stagnation/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/cn/posts/%E7%A7%91%E6%8A%80%E5%A4%A7%E5%81%9C%E6%BB%9E-1-2/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/cn/posts/%E7%A7%91%E5%AD%A6%E5%81%9C%E6%BB%9E%E5%9C%A8%E5%93%AA%E9%87%8C%E4%BA%86/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/cn/posts/%E6%AD%A3%E6%9C%AC%E6%B8%85%E6%BA%90%E8%AF%B4%E5%A5%A5%E6%B4%BE5-%E7%94%B0%E5%9B%AD%E5%A5%A5/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/cn/posts/%E6%AD%A3%E6%9C%AC%E6%B8%85%E6%BA%90%E8%AF%B4%E5%A5%A5%E6%B4%BE4-%E6%9C%89%E9%99%90%E7%90%86%E6%80%A7/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/cn/posts/%E6%AD%A3%E6%9C%AC%E6%B8%85%E6%BA%90%E8%AF%B4%E5%A5%A5%E6%B4%BE3-%E4%BA%A4%E6%98%93%E4%BA%A7%E7%94%9F%E8%B4%A2%E5%AF%8C/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/cn/posts/%E6%AD%A3%E6%9C%AC%E6%B8%85%E6%BA%90%E8%AF%B4%E5%A5%A5%E6%B4%BE2-%E5%AF%8C%E5%9B%BD%E5%BC%BA%E6%B0%91/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/cn/posts/%E6%AD%A3%E6%9C%AC%E6%B8%85%E6%BA%90%E8%AF%B4%E5%A5%A5%E6%B4%BE1-%E5%9F%BA%E7%9F%B3/	2020-12-06T03:41:39+00:00	0.51
+https://scihow.com/cn/posts/%E7%94%B7%E6%9D%83%E8%A7%89%E9%86%92/	2020-12-06T03:41:39+00:00	0.51
+
 # Science Theory Stagnation 
 Many people regard the technological explosion as a self-evident truth. If you continue to ask questions, how do you know that this is an era of technological explosion? Most people were at a loss. It was reported by the media, the teacher said, and it was seen in the book. There are various answers. A small number of people will give examples, look at how it was 100 years ago and how it is now. Very few people will cite historical cases, such as the case of the patent chief, such as the example of Bill Gates, to show that technological progress cannot be underestimated.
 
